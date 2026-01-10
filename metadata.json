@@ -1,0 +1,7 @@
+{
+  "name": "TravelBite - Restaurant Finder",
+  "description": "A comprehensive travel companion app that helps you find the best restaurants based on your travel route. Features secure authentication, route-based searching, and popular food recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
